@@ -1,13 +1,13 @@
-***Data-Driven Fashion CRM: Predicting Churn & Building Customer Retention Strategies***
+# ***Data-Driven Fashion CRM: Predicting Churn & Building Customer Retention Strategies***
 
-***Project Overview***
+## ***Project Overview***
 
 
 *This project explores how luxury fashion e-commerce platforms like Farfetch and Net-a-Porter can predict and reduce customer churn using real product data, synthetic sales behavior, and sentiment analysis.
 By integrating product-level insights (fabric, price, style) with customer engagement data, the project aims to help brands retain high-value customers and improve mid-range buyer conversion.*
 
 
-**🚀Business Problem**
+## **🚀Business Problem**
 
 Luxury fashion retailers face:
 - High customer acquisition costs.
@@ -18,7 +18,7 @@ Luxury fashion retailers face:
  *The challenge:*
 Identify which factors — product characteristics, sentiment, or customer behavior — most strongly predict churn and how to act on them.
 
-**🧩 Objectives**
+## **🧩 Objectives**
 
 - Analyze product mix and pricing across major luxury brands.
 - Segment customers using RFM (Recency, Frequency, Monetary) modeling.
@@ -26,7 +26,7 @@ Identify which factors — product characteristics, sentiment, or customer behav
 - Visualize insights in a Tableau CRM-style dashboard to guide business strategy.
   
 
-**🛠️ Tools & Technologies**
+## **🛠️ Tools & Technologies**
 
 
     - Category                   -            Tools 
@@ -37,7 +37,7 @@ Identify which factors — product characteristics, sentiment, or customer behav
     - Reporting                  -            PowerPoint.
 
 
-**🗂️ Dataset**
+## **🗂️ Dataset**
 1. Product Data (Real)
 
      Scraped from Farfetch & Net-a-Porter (FW25 collections).
@@ -50,7 +50,7 @@ Identify which factors — product characteristics, sentiment, or customer behav
 
 
 
-**🔍 Exploratory Data Analysis (EDA)**
+## **🔍 Exploratory Data Analysis (EDA)**
 
 Key Insights:
   - Most luxury items are priced between $500–$2,000.
@@ -59,7 +59,7 @@ Key Insights:
   - Solid prints outperform other styles, aligning with “quiet luxury” trends.
 
 
-**📈 Predictive Modeling**
+## **📈 Predictive Modeling**
 
 
 🔹 RFM Segmentation
@@ -82,7 +82,7 @@ Key Insights:
    
    Neutral or mixed reviews often precede churn → early signal for re-engagement.
 
-**💡 Business Impact**
+## **💡 Business Impact**
 
 
     - Insight	                                  -        Business Value
@@ -93,7 +93,7 @@ Key Insights:
     
 “By merging product intelligence with customer behavior analytics, this project bridges fashion creativity and data strategy — turning churn into an opportunity for stronger customer relationships.”
 
-**🖥️ Visualization**
+## **🖥️ Visualization**
 
 Tableau Dashboard Includes:
 
@@ -103,7 +103,7 @@ Tableau Dashboard Includes:
     
       (Tableau Public link here - https://public.tableau.com/app/profile/vaishnavi.tripathi1427/vizzes)
 
- **🚀 Results Summary**
+ ## **🚀 Results Summary**
    - Identified mid-value customers as highest churn group.
    - Predicted churn risk with behavioral indicators (RFM + sentiment).
    - Developed actionable framework for retention & pricing optimization.
